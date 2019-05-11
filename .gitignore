@@ -1,0 +1,4 @@
+history
+*.elc
+.emacs.desktop
+.smex-items
